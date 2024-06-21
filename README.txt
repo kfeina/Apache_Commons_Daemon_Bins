@@ -3,8 +3,9 @@ Apache_Commons_Daemon_Bins from Apache Commons (https://commons.apache.org/)
 
 The main idea of this project is to deploy Apache Commons Daemon (ACD) for Windows as an installable .exe package (build with InnoSetup). 
 
-Each Setup install the desired ACD version into %PROGRAMFILES%\Apache_Commons_Daemon_Bins.
+To install download and install the desired Setup form the Setups folder. 
 
+Each Setup install the desired ACD version into %PROGRAMFILES%\Apache_Commons_Daemon_Bins.
 This way you can test easily different versions of Apache Commons Daemon for your desired service.
 
 You can use ACD to build your windows services or to replace NSSM - the Non-Sucking Service Manager (https://nssm.cc/)
