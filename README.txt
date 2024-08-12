@@ -1,7 +1,7 @@
 Apache_Commons_Daemon_Bins from Apache Commons (https://commons.apache.org/)
 #############################################################################
 
-The main idea of this project is to deploy Apache Commons Daemon (ACD) for Windows as an installable .exe package (build with InnoSetup). 
+The main idea of this project (https://github.com/kfeina/Apache_Commons_Daemon_Bins) is to deploy Apache Commons Daemon (ACD) for Windows as an installable .exe package (build with InnoSetup). 
 
 To install download and install the desired Apache_Commons_Daemon_Bins_$Version_Setup.exe
 
