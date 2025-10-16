@@ -1,7 +1,8 @@
 Apache_Commons_Daemon_Bins from Apache Commons (https://commons.apache.org/)
 #############################################################################
 
-The main idea of this project is to deploy Apache Commons Daemon (ACD) as an installable Windows .exe package (build with InnoSetup). 
+This project deploys Apache Commons Daemon (ACD) as an installable Windows .exe package (build with InnoSetup). 
+The package install Procrun (prunsrv.exe). Procrun is a set of applications that allow Windows users to wrap applications as a Windows service.
 
 The versions are installed in C:\Program Files\Apache_Commons_Daemon_Bins\
 
